@@ -15,7 +15,7 @@ We will approach the study of social network analysis from a slightly unusual pe
 - [Chase (1982)](https://doi.org/10.1163/156853982x00364): Social Processes: Dominance and Hierarchies ([notes]())
 - [Bott (1955)](https://doi.org/10.1177/001872675500800401): Conjugal Roles and Social Relations ([notes]())
 - [Freeman (1978)](https:/doi.org/10.1016/0378-8733(78)90021-7): Centrality ([notes]())
-- [White et al. (1976)](https:/doi.org/10.1086/226141): Roles and Positions ([notes]())
+- [White et al. (1976)](https://doi.org/10.1086/226141): Roles and Positions ([notes]())
 - [Granovetter (1973)](https://www.jstor.org/stable/2776392): Weak Ties and Such ([notes]())
 - [Moody and White (2003)](https://doi.org/10.2307/3088904): Groups, Cohesiveness ([notes]())
 
