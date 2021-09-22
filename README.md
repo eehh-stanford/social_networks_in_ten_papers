@@ -7,6 +7,8 @@ We will approach the study of social network analysis from a slightly unusual pe
 
 A key goal of this course is to develop familiarity with `R` tools for social network analysis.
 
+The 10-papers format was the brain child of co-conspirator [Elspeth Ready](https://elspethr.github.io/). In the Fall of 2020, I did [life history theory in ten papers](https://eehh-stanford.github.io/life_history_in_ten_papers/).
+
 # The Papers
 
 - [Hage (1979)](https://doi.org/10.1146/annurev.an.08.100179.000555): Graphs and Anthropology ([notes]())
