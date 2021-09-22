@@ -4,6 +4,7 @@ Social networks with an anthropological bias.
 
 # The Idea
 
+
 We will approach the study of social network analysis from a slightly unusual perspective. Over the course of ten weeks, we will read ten classic papers in the development of the field. We will discuss the papers, their context, their key results, and extensions during class meetings. I will also augment the readings and discussions with notes and videos that cover the key technical results of the papers.
 
 # The Papers
